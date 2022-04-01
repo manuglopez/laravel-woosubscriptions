@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Manuglopez\LaravelWoosubscriptions\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelWoosubscriptionsCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-woosubscriptions';
 
     public $description = 'My command';
 
