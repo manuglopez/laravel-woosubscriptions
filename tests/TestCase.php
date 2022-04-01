@@ -3,8 +3,8 @@
 namespace Manuglopez\LaravelWoosubscriptions\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Manuglopez\LaravelWoosubscriptions\LaravelWoosubscriptionsServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
