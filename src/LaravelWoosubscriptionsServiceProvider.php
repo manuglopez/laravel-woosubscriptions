@@ -2,9 +2,9 @@
 
 namespace Manuglopez\LaravelWoosubscriptions;
 
+use Manuglopez\LaravelWoosubscriptions\Commands\LaravelWoosubscriptionsCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Manuglopez\LaravelWoosubscriptions\Commands\LaravelWoosubscriptionsCommand;
 
 class LaravelWoosubscriptionsServiceProvider extends PackageServiceProvider
 {
